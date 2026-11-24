@@ -1,0 +1,17 @@
+{
+  "name": "gestion-reseau",
+  "label": "Gestion du réseau (ajout, modification, doublons, vérification)",
+  "type": "widget",
+  "version": "2.0.0",
+  "exbVersion": "1.21.0",
+  "author": "",
+  "description": "Widget unique pour ajouter, modifier, supprimer (doublons avec sauvegarde) et vérifier les tronçons et points du réseau. Tout est paramétrable côté éditeur.",
+  "copyright": "",
+  "license": "",
+  "dependency": "jimu-arcgis",
+  "properties": {},
+  "defaultSize": {
+    "width": 380,
+    "height": 520
+  }
+}
