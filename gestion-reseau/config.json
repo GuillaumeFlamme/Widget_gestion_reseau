@@ -9,9 +9,9 @@
   "doublonField": "DOUBLON",
   "doublonYes": "OUI",
   "doublonNo": "NON",
-  "statutField": "STATUT",
-  "statutNC": "N.C",
-  "statutVerif": "Vérifié",
+  "verifField": "verif_terrain",
+  "verifYes": "OUI",
+  "verifNo": "NON",
   "sourceField": "SOURCES",
   "sourceAdd": "Ajout",
   "modifiedField": "MODIFIER",
@@ -22,7 +22,6 @@
   "useFullName": false,
   "snappingEnabled": true,
   "snappingDistance": 15,
-  "formFields": "",
   "clickTolerance": 6,
   "confirmDeleteMessage": "{n} entité(s) marquée(s) en doublon vont être copiées dans la couche de sauvegarde puis supprimées de la couche source. Confirmer ?",
   "txtMenu": "Choisissez une action.",
@@ -35,5 +34,5 @@
   "txtModifyAttrPick": "Cliquez sur l’entité dont vous voulez modifier les attributs.",
   "txtModifyAttrForm": "Seuls les champs modifiés sont enregistrés. L’indicateur de modification, la date et l’auteur sont mis à jour automatiquement, sauf si vous les modifiez vous-même.",
   "txtDelete": "Cliquez sur une entité pour la marquer en doublon (un second clic annule).",
-  "txtVerify": "Sélectionnez des entités (un second clic désélectionne), puis changez leur statut."
+  "txtVerify": "Sélectionnez des entités (un second clic désélectionne), puis marquez-les « Vérifié terrain »."
 }
